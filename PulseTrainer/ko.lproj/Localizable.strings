@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  PulseTrainer
+
+  Created by KEN on 2021/03/30.
+  
+*/
+
+"Pulse( normal )" = "Pulse( normal )";
+"pulse( weak )" = "pulse( weak )";
+"Arrhythmia( no )" = "Arrhythmia( no )";
+"Arrhythmia( yes )" = "Arrhythmia( yes )";
+
+

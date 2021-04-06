@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "120"; ObjectID = "0Gt-Zx-10q"; */
+"0Gt-Zx-10q.text" = "120";
+
+/* Class = "UILabel"; text = "Set.1"; ObjectID = "7hg-P0-ZcM"; */
+"7hg-P0-ZcM.text" = "Set.1";
+
+/* Class = "UINavigationItem"; title = "PulseTrainer"; ObjectID = "8mi-cg-iPD"; */
+"8mi-cg-iPD.title" = "PulseTrainer";
+
+/* Class = "UINavigationItem"; title = "other apps"; ObjectID = "CUU-I0-R0N"; */
+"CUU-I0-R0N.title" = "other apps";
+
+/* Class = "UILabel"; text = "Arrhythmia ( no )"; ObjectID = "EQl-ho-NAM"; */
+"EQl-ho-NAM.text" = "Arrhythmia ( no )";
+
+/* Class = "UILabel"; text = "How to return !"; ObjectID = "FPC-c2-O8Y"; */
+"FPC-c2-O8Y.text" = "How to return !";
+
+/* Class = "UIButton"; normalTitle = "SET"; ObjectID = "Lts-xd-2nI"; */
+"Lts-xd-2nI.normalTitle" = "SET";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "WPy-k4-c17"; */
+"WPy-k4-c17.normalTitle" = "START";
+
+/* Class = "UILabel"; text = "60"; ObjectID = "aI0-qD-lYN"; */
+"aI0-qD-lYN.text" = "60";
+
+/* Class = "UILabel"; text = "Arrhythmia( no )"; ObjectID = "dLg-Lc-tkD"; */
+"dLg-Lc-tkD.text" = "Arrhythmia( no )";
+
+/* Class = "UILabel"; text = "Pulse( normal )"; ObjectID = "jIg-ea-oRQ"; */
+"jIg-ea-oRQ.text" = "Pulse( normal )";
+
+/* Class = "UILabel"; text = "Pulse ( normal )"; ObjectID = "sSa-kk-AoH"; */
+"sSa-kk-AoH.text" = "Pulse ( normal )";
+
+/* Class = "UILabel"; text = "Pulse( normal )"; ObjectID = "sgU-xq-ReX"; */
+"sgU-xq-ReX.text" = "Pulse( normal )";
+
+/* Class = "UILabel"; text = "Arrhythmia( no )"; ObjectID = "tgP-3N-k2c"; */
+"tgP-3N-k2c.text" = "Arrhythmia( no )";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uoT-zy-yzL"; */
+"uoT-zy-yzL.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yTH-Qy-LWV"; */
+"yTH-Qy-LWV.text" = "Label";
+
+/* Class = "UILabel"; text = "How to set the data !"; ObjectID = "zEz-7w-DDk"; */
+"zEz-7w-DDk.text" = "How to set the data !";
+
+/* Class = "UILabel"; text = "60"; ObjectID = "zWB-lk-TSr"; */
+"zWB-lk-TSr.text" = "60";
