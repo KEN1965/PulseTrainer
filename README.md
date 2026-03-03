@@ -2,6 +2,16 @@
 
 PulseTrainer is an iOS training app that reproduces pulse palpation patterns with haptics.
 
+## App Store
+- [PulseTrainer on the App Store (Japan)](https://apps.apple.com/jp/app/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC/id1228463311)
+
+## Screenshots
+Add your screenshots under `docs/screenshots/`, then update this section if needed.
+
+![Home](docs/screenshots/home.png)
+![Measurement](docs/screenshots/measurement.png)
+![Set Data](docs/screenshots/set-data.png)
+
 ## Features
 - Home screen with quick navigation
 - Pulse measurement screen (`START/STOP`) with black-screen playback
